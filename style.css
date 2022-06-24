@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+.jumbotron {
+  padding: 6rem;
+  background-color: #e2edff;
+}
+
+#project {
+  background-color: #e2edff;
+}
+
+section {
+  padding-bottom: 3rem;
+  padding-top: 5rem;
+}
+
+.socialmedia a i {
+  font-size: 30px;
+}
